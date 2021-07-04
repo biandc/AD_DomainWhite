@@ -1,5 +1,5 @@
 // 襄阳流量墙 biandechao
-QIANGCOOKIE = csrftoken=nF907rNaQUxV1Plh7Edxj9fkI3hTjVt2qG8Sso8vjF0PLOrLefA5jW08L7XvM0wV; Firewall=76qfkjtuqueq00nnggs79k74f97h1tcn; language=zh
+QIANGCOOKIE = csrftoken=nF907rNaQUxV1Plh7Edxj9fkI3hTjVt2qG8Sso8vjF0PLOrLefA5jW08L7XvM0wV; Firewall=!76qfkjtuqueq00nnggs79k74f97h1tcn; language=zh
 // 襄阳流量墙地址
 QIANGURL = http://111.177.16.18:16010
 // 登录地址

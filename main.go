@@ -53,10 +53,10 @@ func InitConfig(path string) map[string]string {
 }
 
 // const (
-// 	// 襄阳流量墙 biandechao
-// 	QIANGCOOKIE = "csrftoken=nF907rNaQUxV1Plh7Edxj9fkI3hTjVt2qG8Sso8vjF0PLOrLefA5jW08L7XvM0wV; Firewall=76qfkjtuqueq00nnggs79k74f97h1tcn; language=zh"
-// 	// 襄阳流量墙地址
-// 	QIANGURL = "http://111.177.16.18:16010"
+// 	// 墙
+// 	QIANGCOOKIE = "csrftoken=; Firewall=; language=zh"
+// 	// 墙地址
+// 	QIANGURL = "http://:"
 // 	// 登录地址
 // 	// LOGINURL = "/user_management/excutelogin"
 // 	// 主页地址
@@ -68,7 +68,7 @@ func InitConfig(path string) map[string]string {
 // 	// 过白失败ip文件
 // 	DOMAINFALSEFILE = "falsebeian.txt"
 // 	//备案地址
-// 	BEIANURL = "http://upicp.aodun.com.cn:5000/query_domain_record_info" //?domain="
+// 	BEIANURL = ""
 // )
 
 // 检查cookie是否有效，无效直接退出
